@@ -1,0 +1,7 @@
+{
+	"success": true,
+	"data": {
+		"title": "Dipping a toe in the waters of RedwoodJS",
+		"content": "<p>Illustration by Katerina Limpitsouni, what an artist! https://undraw.co/</p><p>Recently, I have been considering which tools to use for my next side-project, and I though it would be fun to try a React-based static site generator since I use a lot of 'plain' React professionally. I had been considering Gatsby and a few other options, but for now I'll describe my brief foray into the Redwoods.</p><p>OK, I admit....I was initially excited about the release of RedwoodJS simply because of the name. I was born and raised in Northern California, and I think Redwood trees are really quite special. Tom Preston-Werner, the author of this new JAMstack framework, chose the name for similar reasons.</p>"
+	}
+}
